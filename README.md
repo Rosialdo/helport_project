@@ -40,4 +40,4 @@ sudo docker build -t nome_imagem .
 sudo docker run -d -p 8443:8443 --name nome_que_sera_dado_ao_contêiner nome_imagem_criada
 ```
 
-[lista de comandos relevantes do docker](https://github.com/Rosialdo/helport_project/blob/master/instru%C3%A7%C3%B5es/principais%20comandos%20docker.txt)
+[lista de comandos relevantes do docker](https://github.com/Rosialdo/helport_project/blob/master/instru%C3%A7%C3%B5es/principais_comandos_docker.md)
