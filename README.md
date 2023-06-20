@@ -18,6 +18,9 @@
 
 ### pré requisitos:
 * Ter o docker instalado na máquina;
+    * Link de como instalar o docker: 
+        * [Para Linux](https://www.digitalocean.com/community/tutorial_collections/how-to-install-and-use-docker)
+        * [Para Windowns](https://docs.docker.com/desktop/install/windows-install/r)
 * Substituir o token open ai no arquivo openai_api.py;
 * Substituir o token do bot do telegram no arquivo telegram_bot.py.
 
